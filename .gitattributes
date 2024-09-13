@@ -1,0 +1,2 @@
+titanic.csv filter=lfs diff=lfs merge=lfs -text
+desktop/on34-python-s13-projeto-guiado-II/exercicios/para-sala/Lethicia-Asevedo filter=lfs diff=lfs merge=lfs -text
